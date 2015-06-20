@@ -1,0 +1,9 @@
+{
+  "name": "Overlay",
+  "title": "Overlay",
+  "id": "jid1-rbkUCBmojfJ2kQ",
+  "description": "Add content to pages based on their urls.",
+  "author": "Dillon Hafer",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
